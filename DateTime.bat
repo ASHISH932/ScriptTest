@@ -1,7 +1,5 @@
 @echo off
 
-cd "C:\Users\HP\Desktop\work\ScriptTest"
-
 :loop
 
 set ReadmePath="Readme.md"
